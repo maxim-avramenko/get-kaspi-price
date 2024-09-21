@@ -1,0 +1,5 @@
+Flask
+requests_html
+lxml_html_clean
+jsonify
+bs4
